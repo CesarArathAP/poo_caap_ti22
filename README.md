@@ -6,7 +6,8 @@ Repositorio con los ejercicios de la materia Programación Orientada a Objetos
 |  No.  |  Archivo|  Descripción|
 |--|--|--|
 | 1| programa0.py| Hola mundo en Python3|
-| 2| programa1.py|Concatenación y comentarios multimedia.py|
-| 3| programa2.py|Concatenación mediante la función format.py|
-| 4| programa3.py|Concatenación mediante la funcion format para reaizar una suma, resta, multiplicación y división con todo y el resultado.py|
-| 5| programa4.py|Funcionalidad de la funcion casting.py|
+| 2| programa1.py| Concatenación y comentarios multimedia.py|
+| 3| programa2.py| Concatenación mediante la función format.py|
+| 4| programa3.py| Concatenación mediante la funcion format para reaizar una suma, resta, multiplicación y división con todo y el resultado.py|
+| 5| programa4.py| Funcionalidad de la funcion casting.py|
+| 6| programa5.py| Calcular el area y perimetro de cualquier triangulo|

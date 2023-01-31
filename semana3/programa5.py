@@ -1,3 +1,8 @@
+""" Programa5
+Nombre: Cesar Arath
+Fecha: 30/01/2023
+Descripción: Calcular el area y perimetro de cualquier triangulo
+"""
 base = None
 altura = None
 
