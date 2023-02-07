@@ -11,3 +11,5 @@ Repositorio con los ejercicios de la materia Programación Orientada a Objetos
 | 4| programa3.py| Concatenación mediante la funcion format para reaizar una suma, resta, multiplicación y división con todo y el resultado.py|
 | 5| programa4.py| Funcionalidad de la funcion casting.py|
 | 6| programa5.py| Calcular el area y perimetro de cualquier triangulo|
+| 7| porgrama6.py| Calcular el area y perimetro de un circulo y un cuadrado cualquiera.py|
+| 8| programa7.py| Descripción: Comparar 2 numeros enteros e imprimir el mumero mayor.py
